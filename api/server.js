@@ -6,7 +6,7 @@ const bcrypt = require('bcryptjs');
 const app = express();
 
 // --- CONFIGURACIÓN ---
-app.use(cors({ origin: 'https://ulisesxxxi31.github.io' }));
+app.use(cors({ origin: '*' }));
 app.use(express.json());
 
 const uri = process.env.MONGODB_URI;
