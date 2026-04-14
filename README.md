@@ -1,6 +1,10 @@
 🚀 voKblo - API Backend (v1.0)
 Este es el motor de servidor de voKblo DE, una plataforma EdTech diseñada para la gamificación del aprendizaje de alemán nivel B1. La API gestiona la autenticación segura, el progreso de los alumnos y un sistema dinámico de ranking.
 
+## 🌐 Conexión con el Cliente
+Esta API está diseñada para dar soporte al frontend de **voKblo**.
+* **Repositorio del Frontend:** [GitHub - voKbloB1](https://github.com/UlisesXXXI31/voKbloB1)
+
 🛠️ Stack Tecnológico
 Runtime: Node.js
 
